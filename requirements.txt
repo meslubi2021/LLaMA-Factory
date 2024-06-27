@@ -12,9 +12,9 @@ fire
 jieba
 rouge-chinese
 nltk
-gradio==3.50.2
+gradio==4.36.1
 uvicorn
-pydantic==1.10.11
-fastapi==0.95.1
+pydantic==1.10.13
+fastapi==0.109.1
 sse-starlette
 matplotlib
